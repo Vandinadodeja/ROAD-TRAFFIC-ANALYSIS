@@ -1,1 +1,3 @@
 # ROAD-TRAFFIC-ANALYSIS
+In our connected world, road safety is a big concern because accidents damage property and harm people. Our project, "Road Traffic Analysis," uses computer techniques to study accidents and predict how severe they might be. We gathered a lot of data about accidents, like when they happened and what the weather was like. We clean up this data to make it useful, then look at it to find trends and connections. We also create new information that helps us make better predictions.
+In short, "Road Traffic Analysis" uses computers to make roads safer by guessing how bad accidents might be. This helps reduce accidents and keeps people and things safe on the road.
